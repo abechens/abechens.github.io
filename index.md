@@ -21,6 +21,24 @@ Here is my [Cv](CVArneBechensteen.pdf).
 -Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
 
 
+### Teaching
+#### 2017-2018
+-Outils pour la physique - 36h, L1.
+-Programmation imperative 1 - 29.5h, L1
+#### 2018-2019
+-Licence :  Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
+-Licence :  Programmation impérative PeiP1, 12h, L1, Polytech Nice Sophia, France
+-Master :  Traitement Numérique des Images, 10h, M2, Polytech Nice Sophia, France
+
+#### 2019-2020
+- Machine Learning Avancé
+- Applied AI
+ \item Licence : Arne Bechensteen, Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
+\item Licence : Arne Bechensteen, Programmation impérative PeiP1, 13h30, L1, Polytech Nice Sophia, France
+\item Master : Arne Bechensteen, Traitement Numérique des Images, 8h, M2, Polytech Nice Sophia, France
+\item Master : Arne Bechensteen, Compression, analyse et visualisation de contenus multimédia, 2h, M2, Polytech Nice Sophia, France
+
+
 ```markdown
 Syntax highlighted code block
 
