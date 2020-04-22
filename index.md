@@ -11,32 +11,32 @@ Here is my [Cv](CVArneBechensteen.pdf).
 
 
 ### Publications
--Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666)
+- Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666)
 
--Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
+- Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
 
--Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
+- Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
 
 #### Internal publication
--Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
+- Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
 
 
 ### Teaching
 #### 2017-2018
--Outils pour la physique - 36h, L1.
--Programmation imperative 1 - 29.5h, L1
+- Outils pour la physique - 36h, L1.
+- Programmation imperative 1 - 29.5h, L1
 #### 2018-2019
--Licence :  Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
--Licence :  Programmation impérative PeiP1, 12h, L1, Polytech Nice Sophia, France
--Master :  Traitement Numérique des Images, 10h, M2, Polytech Nice Sophia, France
+- Licence :  Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
+- Licence :  Programmation impérative PeiP1, 12h, L1, Polytech Nice Sophia, France
+- Master :  Traitement Numérique des Images, 10h, M2, Polytech Nice Sophia, France
 
 #### 2019-2020
 - Machine Learning Avancé
 - Applied AI
- \item Licence : Arne Bechensteen, Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
-\item Licence : Arne Bechensteen, Programmation impérative PeiP1, 13h30, L1, Polytech Nice Sophia, France
-\item Master : Arne Bechensteen, Traitement Numérique des Images, 8h, M2, Polytech Nice Sophia, France
-\item Master : Arne Bechensteen, Compression, analyse et visualisation de contenus multimédia, 2h, M2, Polytech Nice Sophia, France
+- Licence : Arne Bechensteen, Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
+- Licence : Arne Bechensteen, Programmation impérative PeiP1, 13h30, L1, Polytech Nice Sophia, France
+- Master : Arne Bechensteen, Traitement Numérique des Images, 8h, M2, Polytech Nice Sophia, France
+- Master : Arne Bechensteen, Compression, analyse et visualisation de contenus multimédia, 2h, M2, Polytech Nice Sophia, France
 
 
 ```markdown
