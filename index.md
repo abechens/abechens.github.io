@@ -17,8 +17,8 @@ Here is my [Cv](CVArneBechensteen.pdf).
 
 -Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
 
--Internal publication
-Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
+#### Internal publication
+-Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
 
 
 ```markdown
