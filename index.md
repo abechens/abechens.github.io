@@ -3,9 +3,11 @@ My name is Arne Bechensteen, and I am currently a PhD student in the [Morpheme t
 
 ### Bio
 
-I am a Norwegian PhD student working in Sophia Antipolis. I have a engineering degree from INSA Toulouse in applied mathematics, with the specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). I started my PhD october 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-director. My PhD is centered around sparse optimization and super-resolution microscopy. 
+I am a Norwegian PhD student working in Sophia Antipolis. I have a engineering degree from INSA Toulouse in applied mathematics, with the specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). 
 
-Here is my [Cv](CVArneBechensteen.pdf)
+I started my PhD october 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-director. My PhD is centered around sparse optimization and super-resolution microscopy. 
+
+Here is my [Cv](CVArneBechensteen.pdf). 
 
 ```markdown
 Syntax highlighted code block
