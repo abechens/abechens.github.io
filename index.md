@@ -5,9 +5,21 @@ My name is Arne Bechensteen, and I am currently a PhD student in the [Morpheme t
 
 I am a Norwegian PhD student working in Sophia Antipolis. I have a engineering degree from INSA Toulouse in applied mathematics, with the specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). 
 
-I started my PhD october 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-director. My PhD is centered around sparse optimization and super-resolution microscopy. 
+I started my PhD in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My PhD is centered around sparse optimization and super-resolution microscopy. 
 
 Here is my [Cv](CVArneBechensteen.pdf). 
+
+
+### Publications
+-Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666)
+
+-Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
+
+-Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
+
+-Internal publication
+Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research establishment (FFI) report no: 14/01621. Confidential publication.
+
 
 ```markdown
 Syntax highlighted code block
