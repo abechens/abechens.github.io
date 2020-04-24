@@ -7,7 +7,7 @@ I am a Norwegian PhD student working in Sophia Antipolis. I have a engineering d
 
 I started my PhD in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My PhD is centered around sparse optimization and super-resolution microscopy. 
 
-Here is my [Cv](CVArneBechensteen.pdf). 
+Here is my [resume](CVArneBechensteen.pdf). 
 
 
 ### Publications
@@ -22,22 +22,25 @@ Here is my [Cv](CVArneBechensteen.pdf).
 
 
 ### Teaching
-#### 2017-2018
-- Outils pour la physique - 36h, L1.
-- Programmation imperative 1 - 29.5h, L1
+All my teaching has been done at Polytech Nice Sophia. I have taught mainly fors students in L1 or M2, which is first year of engineering school and last year. 
+#### 2019-2020
+- M2:Machine Learning Avancé
+- M2: Applied AI
+- L1: Outils pour la physique, 42h
+- L1: Programmation impérative PeiP1, 13h30
+- Master : Arne Bechensteen, Traitement Numérique des Images, 8h, M2, Polytech Nice Sophia, France
+- Master : Arne Bechensteen, Compression, analyse et visualisation de contenus multimédia, 2h, M2, Polytech Nice Sophia, France
+
 #### 2018-2019
 - Licence :  Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
 - Licence :  Programmation impérative PeiP1, 12h, L1, Polytech Nice Sophia, France
 - Master :  Traitement Numérique des Images, 10h, M2, Polytech Nice Sophia, France
 
-#### 2019-2020
-- Machine Learning Avancé
-- Applied AI
-- Licence : Arne Bechensteen, Outils pour la physique, 42h, L1, Polytech Nice Sophia, France
-- Licence : Arne Bechensteen, Programmation impérative PeiP1, 13h30, L1, Polytech Nice Sophia, France
-- Master : Arne Bechensteen, Traitement Numérique des Images, 8h, M2, Polytech Nice Sophia, France
-- Master : Arne Bechensteen, Compression, analyse et visualisation de contenus multimédia, 2h, M2, Polytech Nice Sophia, France
 
+
+#### 2017-2018
+- Outils pour la physique - 36h, L1.
+- Programmation imperative 1 - 29.5h, L1
 
 ```markdown
 Syntax highlighted code block
