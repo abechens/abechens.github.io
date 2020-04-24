@@ -22,7 +22,7 @@ Here is my [resume](CVArneBechensteen.pdf).
 
 
 ### Teaching
-All my teaching has been done at Polytech Nice Sophia. I have taught mainly fors students in L1 or M2, which is first year of engineering school and last year. 
+All my teaching has been done at Polytech Nice Sophia. I have taught mainly for students in L1 or M2, which is the first year of engineering school, and the last year. 
 #### 2019-2020
 - M2: Machine Learning Avancé  8h (Advanced Machine learning) 
 -- Including: Support Vector Machine, Image enhancing, Dictionary learning and image compression 
@@ -38,8 +38,8 @@ All my teaching has been done at Polytech Nice Sophia. I have taught mainly fors
 -- This class gives the basics notations and tools from mathematics to use in physics.
 - L1: Programmation impérative, 12h (Imperative programming)
 -- This class consists of giving a view into programming, using Python.
-- M2 :  Traitement Numérique des Images, 10h (Image processing)
--- Including: Image segmentation, image processing using variational apporaches, partial diferential equations and images and Mathematical morphology. 
+- M2:  Traitement Numérique des Images, 10h (Image processing)
+-- Including: Image segmentation, image processing using variational approaches, partial differential equations and images, and Mathematical morphology. 
 
 #### 2017-2018
 - L1: Outils pour la physique, 36h, (Tools for physics) 
