@@ -25,6 +25,7 @@ Here is my [resume](CVArneBechensteen.pdf).
 All my teaching has been done at Polytech Nice Sophia. I have taught mainly for students in L1 or M2, which is the first year of engineering school, and the last year. 
 #### 2019-2020
 - M2: Machine Learning Avancé  8h (Advanced Machine learning) 
+
 -- Including: Support Vector Machine, Image enhancing, Dictionary learning and image compression 
 - M2: Applied AI 2h
 -- Including: Treating biological data. 
