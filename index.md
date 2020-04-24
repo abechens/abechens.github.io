@@ -13,22 +13,21 @@ Here is my [resume](CVArneBechensteen.pdf).
 ### Publications
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666)
 
-- Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
 
-- Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
 
 #### Internal publication
-- Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research Establishment (FFI) report no: 14/01621. Confidential publication.
+* Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research Establishment (FFI) report no: 14/01621. Confidential publication.
 
 
 ### Teaching
 All my teaching has been done at Polytech Nice Sophia. I have taught mainly for students in L1 or M2, which is the first year of engineering school, and the last year. 
 #### 2019-2020
-- M2: Machine Learning Avancé  8h (Advanced Machine learning) 
-
--- Including: Support Vector Machine, Image enhancing, Dictionary learning and image compression 
-- M2: Applied AI 2h
--- Including: Treating biological data. 
+* M2: Machine Learning Avancé  8h (Advanced Machine learning) 
+** Including: Support Vector Machine, Image enhancing, Dictionary learning and image compression 
+* M2: Applied AI 2h
+** Including: Treating biological data. 
 - L1: Outils pour la physique, 42h, (Tools for physics) 
 -- This class gives the basics notations and tools from mathematics to use in physics.
 - L1: Programmation impérative, 13h30 (Imperative programming)
