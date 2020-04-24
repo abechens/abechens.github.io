@@ -27,25 +27,25 @@ All my teaching has been done at Polytech Nice Sophia. I have taught mainly for 
 * M2: Machine Learning Avancé  8h (Advanced Machine learning) 
   * Including: Support Vector Machine, Image enhancing, Dictionary learning and image compression 
 * M2: Applied AI 2h
-** Including: Treating biological data. 
+ * Including: Treating biological data. 
 - L1: Outils pour la physique, 42h, (Tools for physics) 
--- This class gives the basics notations and tools from mathematics to use in physics.
+ * This class gives the basics notations and tools from mathematics to use in physics.
 - L1: Programmation impérative, 13h30 (Imperative programming)
--- This class consists of giving a view into programming, using Python.
+ * This class consists of giving a view into programming, using Python.
 
 #### 2018-2019
 - L1: Outils pour la physique, 42h, (Tools for physics) 
--- This class gives the basics notations and tools from mathematics to use in physics.
+ * This class gives the basics notations and tools from mathematics to use in physics.
 - L1: Programmation impérative, 12h (Imperative programming)
--- This class consists of giving a view into programming, using Python.
+ * This class consists of giving a view into programming, using Python.
 - M2:  Traitement Numérique des Images, 10h (Image processing)
--- Including: Image segmentation, image processing using variational approaches, partial differential equations and images, and Mathematical morphology. 
+ * Including: Image segmentation, image processing using variational approaches, partial differential equations and images, and Mathematical morphology. 
 
 #### 2017-2018
 - L1: Outils pour la physique, 36h, (Tools for physics) 
--- This class gives the basics notations and tools from mathematics to use in physics.
+ * This class gives the basics notations and tools from mathematics to use in physics.
 - L1: Programmation impérative, 29.5 (Imperative programming)
--- This class consists of giving a view into programming, using Python.
+ * This class consists of giving a view into programming, using Python.
 
 
 ```markdown
