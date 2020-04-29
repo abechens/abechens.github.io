@@ -11,11 +11,14 @@ Here is my [resume](CVArneBechensteen.pdf).
 
 
 ### Publications
-* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666) [Codes](https://github.com/abechens/CoBic-and-PeBic-SMLM)
 
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation fo the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
 
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
+
+#### Preprint
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _A continuous relaxation of the constrained l2 − l0 problem_. [pdf](https://hal.univ-cotedazur.fr/hal-02556394), [Codes](https://github.com/abechens/SMLM-Constraint-Relaxation)
 
 #### Internal publication
 * Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research Establishment (FFI) report no: 14/01621. Confidential publication.
@@ -47,31 +50,3 @@ All my teaching has been done at Polytech Nice Sophia. I have taught mainly for 
 - L1: Programmation impérative, 29.5h (Imperative programming)
   * This class consists of giving a view into programming, using Python.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abechens/abechens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
