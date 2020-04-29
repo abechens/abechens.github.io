@@ -3,6 +3,6 @@ title: IN WORK!
 description: > # this means to ignore newlines until "baseurl:"
   Here I will write about my research interests and keep you updated with new codes and publications.
   
-  Do not hesitate to [contact me](mailto:arne-henrik.bechensteen@inria.fr) for any questions. 
+  Do not hesitate to <a href="mailto:arne-henrik.bechensteen@inria.fr">contact me</a> for any questions. 
  
-logo: [DSC_0212.jpg]
+#logo: [DSC_0212.jpg]
