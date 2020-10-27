@@ -7,7 +7,7 @@ I am a Norwegian Ph.D. student working in Sophia Antipolis. I have an engineerin
 
 I started my Ph.D. in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My Ph.D. is centered around sparse optimization and super-resolution microscopy. 
 
-Here is my [resume](resume-Bechensteen.pdf). 
+Here is my [resume](Resume-Bechensteen.pdf). 
 
 
 ### Publications
