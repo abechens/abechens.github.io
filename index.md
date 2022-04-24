@@ -11,7 +11,7 @@ Here is my [resume](Resume2022.pdf).
 
 
 ### Publications
-* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666) [Codes](https://github.com/abechens/CoBic-and-PeBic-SMLM)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _New l2-l0 algorithm for single-molecule localization microscopy_. Biomedical Optics Express 11(2) 2020 [DOI](https://doi.org/10.1364/BOE.381666), [Codes](https://github.com/abechens/CoBic-and-PeBic-SMLM)
 
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _Exact biconvex reformulation for the l2-l0 minimization problem_.  GRETSI 2019 [pdf](https://hal.inria.fr/hal-02382369)
 
