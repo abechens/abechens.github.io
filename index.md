@@ -5,7 +5,7 @@ My name is Arne Bechensteen, and I am currently an R&D engineer at [Kongsberg Ma
 
  I have an engineering degree from INSA Toulouse in applied mathematics, with a specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). 
 
-I started my Ph.D. in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My Ph.D. was centered around sparse optimization and super-resolution microscopy, and was done in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. The thesis was awarded best thesis by [EDSTIC](https://edstic.unice.fr/fr/node/145) in Automatic, Signal and Image processing.
+I started my Ph.D. in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My Ph.D. was centered around sparse optimization and super-resolution microscopy, and was done in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. The thesis was awarded best thesis by [EDSTIC](https://edstic.unice.fr/fr/node/145) in Automatic, Signal and Image processing. You can find my thesis [here](https://tel.archives-ouvertes.fr/tel-03185134/document).
 
 Here is my [resume](Resume2022.pdf). 
 
