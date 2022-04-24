@@ -1,13 +1,13 @@
 ## Welcome to my page! 
-My name is Arne Bechensteen, and I am currently a Ph.D. student in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. 
+My name is Arne Bechensteen, and I am currently an R&D engineer at [Kongsberg Maritime](https://www.kongsberg.com/no/maritime/) in Horten, Norway. Ph.D. student in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. 
 
 ### Bio
 
-I am a Norwegian Ph.D. student working in Sophia Antipolis. I have an engineering degree from INSA Toulouse in applied mathematics, with a specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). 
+ I have an engineering degree from INSA Toulouse in applied mathematics, with a specialization in [numerical models and optimization](https://www.math.insa-toulouse.fr/fr/index.html). 
 
-I started my Ph.D. in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My Ph.D. is centered around sparse optimization and super-resolution microscopy. 
+I started my Ph.D. in October 2017 with [Laure Blanc-Féraud](https://www-sop.inria.fr/members/Laure.Blanc_Feraud/) as my thesis director and [Gilles Aubert](https://math.unice.fr/~gaubert/) as my co-supervisor. My Ph.D. was centered around sparse optimization and super-resolution microscopy, and was done in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. The thesis was awarded best thesis by [EDSTIC](https://edstic.unice.fr/fr/node/145) in Automatic, Signal and Image processing.
 
-Here is my [resume](Resume-Bechensteen.pdf). 
+Here is my [resume](Resume2022.pdf). 
 
 
 ### Publications
@@ -17,8 +17,7 @@ Here is my [resume](Resume-Bechensteen.pdf).
 
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
 
-#### Preprint
-* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _A continuous relaxation of the constrained l2 − l0 problem_. [pdf](https://hal.univ-cotedazur.fr/hal-02556394), [Codes](https://github.com/abechens/SMLM-Constraint-Relaxation)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _A continuous relaxation of the constrained l2 − l0 problem_. [DOI](https://dx.doi.org/10.1007/s10851-020-01014-y) [pdf](https://hal.univ-cotedazur.fr/hal-02556394), [Codes](https://github.com/abechens/SMLM-Constraint-Relaxation)
 
 #### Internal publication
 * Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research Establishment (FFI) report no: 14/01621. Confidential publication.
