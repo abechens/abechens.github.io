@@ -17,7 +17,7 @@ Here is my [resume](Resume2022.pdf).
 
 * Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert.  _New Methods for l2-l0 Minimization and their Applications to 2D Single-Molecule Localization Microscopy_. 2019 IEEE 16th International Symposium on Biomedical Imaging [DOI](https://doi.org/10.1109/isbi.2019.8759567)
 
-* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _A continuous relaxation of the constrained l2 − l0 problem_. [DOI](https://dx.doi.org/10.1007/s10851-020-01014-y) [pdf](https://hal.univ-cotedazur.fr/hal-02556394), [Codes](https://github.com/abechens/SMLM-Constraint-Relaxation)
+* Arne Bechensteen and Laure Blanc-Féraud and Gilles Aubert. _A continuous relaxation of the constrained l2 − l0 problem_. [DOI](https://dx.doi.org/10.1007/s10851-020-01014-y), [pdf](https://hal.univ-cotedazur.fr/hal-02556394), [Codes](https://github.com/abechens/SMLM-Constraint-Relaxation)
 
 #### Internal publication
 * Tallak H. Risdal, Arne H. Bechensteen. _High-speed video of APEX test firings: Results of data reduction to determine fragment velocities and direction._ Norwegian  Defence Research Establishment (FFI) report no: 14/01621. Confidential publication.
