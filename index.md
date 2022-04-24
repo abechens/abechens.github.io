@@ -1,5 +1,5 @@
 ## Welcome to my page! 
-My name is Arne Bechensteen, and I am currently an R&D engineer at [Kongsberg Maritime](https://www.kongsberg.com/no/maritime/) in Horten, Norway. Ph.D. student in the [Morpheme team](https://team.inria.fr/morpheme/) in Sophia Antipolis, France. 
+My name is Arne Bechensteen, and I am currently an R&D engineer at [Kongsberg Maritime](https://www.kongsberg.com/no/maritime/) in Horten, Norway. 
 
 ### Bio
 
